@@ -1,4 +1,4 @@
-_**Novel Biosensing System & Device for Foodborne Contaminants**_
+_**Culinova: Novel Biosensing System & Device for Foodborne Contaminants**_
 
 The novel biosensing system & device facilitate rapid detection of the most common foodborne contaminants, including bacterial pathogens, metabolic toxins, and heavy metals. The laboratory sensing system is constructed based upon novel pairing of nanomaterials and the use of electrochemistry principles combined with the change in luminescence of molecules. It helps to quantify the specific concentration of these contaminants.
 
